@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Sample</title>
+</head>
+ <body bgcolor="pink">
+          
+<p></p>
+<h3>
+<a href="owner.com"><u>
+<center>King Anthony Cloud link Web24 Ranking</center>
+</u>
+</a>
+</h3>
+<p></p>
+Hello guys I'm learning HTML 
+
+and i gonna show u some 
+<br><br>
+good website 
+<a href="owner.com">this is W3 school this is terraria:</a>
+<p></p>
+<font color="gray">create account and get a free.. tutorials with code source. 
+<p></p>
+Here's a free access to their website. <a href="owner.com">Sign up</a> with King Anthony Cloud Link and you will get free access to their website.
+</font>
+<p></p>
+<font color="green">
+Login 
+</font>
+<p></p>
+ Email: <input type="text" placeholder="Username" id"username"="">
+ 
+<br><br>
+ Password: <input type="password" placeholder="Password">
+<p></p>
+
+Remember me<a href="www.akisssampson@gmailcom">Forgotenpassword</a>
+<p></p>
+<button>SUBMIT</button>
+  <font color="grave">
+    <br><br>
+  <u>  Don't have account, <a href="www.akisssampson@gmailcom">Sign up</a></u>
+   
+<p></p>
+  </font>
+
+
+</body>
+</html>
